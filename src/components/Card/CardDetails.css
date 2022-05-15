@@ -1,0 +1,11 @@
+.containerCard{
+    border: 1px solid #51cb3299;
+    background-color: #51cb3299;
+    margin: 0px;
+    padding: 20px;
+}
+
+.card {
+    border: 2px solid #295b13;
+    border-radius: 10px;
+  }

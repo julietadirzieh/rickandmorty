@@ -1,0 +1,21 @@
+.Favorite{
+    color: #1e3752;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    border-top:#1e3752 0.1em dotted;
+  }
+    
+  .Favorite-Btn{
+    padding-bottom: 20px;
+    align-items: center;
+  }
+  
+  .pInline{
+    display: inline-block;
+    padding: 8px;
+  }
+
+.btnMore{
+    margin: 8px;
+  }

@@ -1,0 +1,21 @@
+.input {
+    width: 40%;
+    border: 2px solid #51cb3299;
+    border-radius: 8px;
+    box-shadow: 1px 3px 9px green;
+    padding: 10px 15px;
+  }
+  
+  .btn {
+    box-shadow: 1px 3px 9px green;
+  }
+  @media (max-width: 576px) {
+    .input {
+      width: 80%;
+    }
+  }
+
+  .WidgetNumber{
+    color: #51cb3299;
+    text-decoration: none;
+    }

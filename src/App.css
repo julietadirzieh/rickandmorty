@@ -1,0 +1,77 @@
+.App {
+  background-color: #51cb3299;
+}
+
+.navbarBg{
+  background-color: #f9f9f9;
+}
+
+.titlePage{
+  color: #51cb3299 !important;
+  font-weight: bold ;
+}
+
+h1{
+  color: #295b13;
+  padding-top: 20px;
+  font-weight: bold ;
+}
+
+.textColor{
+  color: #295b13;
+}
+
+.active {
+  color: #51cb3299 !important;
+  font-weight: bold;
+  border-bottom: 3px solid;
+}
+
+.activeColor a{
+  background-color: #51cb3299 !important;
+  color: #f9f9f9 !important;
+  border: none;
+}
+
+.page-item {
+  color: #51cb3299 !important;
+  font-weight: bold;
+  border-bottom: 3px solid #51cb3299;
+}
+
+.whiteText a{
+  color: #f9f9f9 !important;
+  text-decoration: none;
+}
+
+.FavWidget {
+  text-align: center;
+  float: right;
+  margin-right: 50px;
+}
+
+.containerCard2{
+  border: 1px solid #51cb3299;
+  background-color: #f9f9f9;
+  margin: 5px;
+  padding: 10px;
+  color: #51cb3299;
+}
+
+.btnCard{
+  margin: 20px;
+}
+
+h2{
+  color: #295b13;
+  padding-top: 20px;
+}
+
+.card {
+  border: 2px solid #295b13;
+  border-radius: 10px;
+}
+
+.imgCard2{
+  width: 200px;
+}
